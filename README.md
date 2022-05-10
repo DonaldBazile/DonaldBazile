@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Donald Bazile</h1>
-<h3 align="center">I'm passionate Software Engineer</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donaldbazile&show_icons=true&locale=en" alt="donaldbazile" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldbazile&" alt="donaldbazile" /></p>
+
+<h1 align="left">Hi 👋, I'm Donald Bazile</h1>
+<h3 align="left">I'm passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **React, MongoDB and MySQL**
 
@@ -21,7 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donaldbazile&show_icons=true&locale=en&layout=compact" alt="donaldbazile" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donaldbazile&show_icons=true&locale=en" alt="donaldbazile" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldbazile&" alt="donaldbazile" /></p>
 # DonaldBazile
