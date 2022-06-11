@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonaldBazile&show_icons=true&theme=radical)
 
-<h1 align="left">Hi 👋, I'm Donald Bazile</h1>
+<h2 align="left">Hi 👋, I'm Donald Bazile</h1>
 <h3 align="left">I'm passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **React, MongoDB and MySQL**
