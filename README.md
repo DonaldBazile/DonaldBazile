@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donaldbazile&show_icons=true&locale=en" alt="donaldbazile" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldbazile&" alt="donaldbazile" /></p>
 
